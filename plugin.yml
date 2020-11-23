@@ -1,0 +1,9 @@
+main: com.InvSeeCreatedByGerben.Main
+name: InvSee
+version: 1.0.0
+author: Gerben Mol
+description: Open and edit another players inventory
+api-version: 1.13
+commands:
+  invsee:
+    description: Open and edit another players inventory
